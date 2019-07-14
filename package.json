@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "three.js",
+  "homepage" :"https://altugozengi.github.io/Three.js-3D-modelling-tutorial/",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.5.4",
