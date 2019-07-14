@@ -1,0 +1,21 @@
+{
+  "name": "threejs-tutorial-AIRCRAFT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "three.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.5"
+  },
+  "scripts": {
+    "webpack": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
