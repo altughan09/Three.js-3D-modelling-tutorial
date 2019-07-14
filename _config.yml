@@ -1,1 +1,1 @@
-theme: jekyll-theme-cayman
+jekyll serve --baseurl 'https://github.com/altugozengi/Three.js-3D-modelling-tutorial'
